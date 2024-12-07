@@ -19,3 +19,9 @@ Server running on port 3000
 โปรเจคจะรันบน http://localhost:4200/
 ขอบคุณครับ
 
+
+version ที่ใช้ในการทำโปรเจค
+Angular CLI: 16.2.16
+Node: 18.20.5
+Package Manager: npm 6.14.18
+OS: win32 x64
